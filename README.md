@@ -15,4 +15,7 @@ selanjutnya di arahkan ke daftar member unaik craft
 
 data yang di input bisa di hapus dan di ubah
 
-<img src="https://github.com/Ulfiyah/android-projrct/blob/main/UnaikCraft/Screenrecording_20230703_231840%5B1%5D.mp4" width = "300dp" height="600"> 
+<img src="https://github.com/Ulfiyah/android-projrct/blob/main/UnaikCraft/S4%5B1%5D.jpg" width = "300dp" height="600"> 
+
+
+<img src="https://github.com/Ulfiyah/android-projrct/blob/main/UnaikCraft/S5%5B1%5D.jpg" width = "300dp" height="600"> 
